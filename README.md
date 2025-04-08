@@ -28,7 +28,7 @@ cd desafio-itau-backend
 ```
 
 A aplicação ficará disponível em:  
-📍 `http://localhost:8080`
+📍 `http://localhost:8080` ou `http://localhost:8080/swagger-ui/index.html`
 
 ---
 
