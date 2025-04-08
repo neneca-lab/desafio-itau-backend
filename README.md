@@ -13,6 +13,7 @@ O objetivo do desafio é construir uma API capaz de:
   
 Tudo isso respeitando uma série de restrições técnicas — como uso exclusivo de JSON, persistência em memória, e validações rígidas de entrada.
 
+---
 ### ▶️ Passos para rodar localmente
 
 ```bash
