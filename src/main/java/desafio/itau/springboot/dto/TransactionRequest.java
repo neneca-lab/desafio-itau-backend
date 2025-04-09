@@ -8,7 +8,7 @@ import lombok.Getter;
 @Getter
 public class TransactionRequest {
 
-    // NAO PODE RECEBER VALORES NULOS E VALORES MNIMOS QUE 0 
+    // NAO PODE RECEBER VALORES NULOS 
     @NotNull
     private double valor;
 
